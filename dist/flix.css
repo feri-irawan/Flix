@@ -216,6 +216,7 @@ html, body {
   font-family: Helvetica,Arial,sans-serif;
 }
 
+
 /* FONT SIZE */
 .fz-12 {
   font-size: 12px;
@@ -722,9 +723,4 @@ form .btn {
   to {
     opacity: 1;
   }
-}
-
-@font-face {
-  font-family: Nunito;
-  src: url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700;800;900&display=swap')
 }
