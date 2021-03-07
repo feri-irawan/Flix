@@ -215,7 +215,9 @@ html, body {
 .ff-serif {
   font-family: Helvetica,Arial,sans-serif;
 }
-
+.ff-monospace {
+  font-family: Monospace;
+}
 
 /* FONT SIZE */
 .fz-12 {
